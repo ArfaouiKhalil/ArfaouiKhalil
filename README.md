@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**ArfaouiKhalil/ArfaouiKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ICT Student | Cybersecurity & Networking Enthusiast** 🔐🌐
 
-Here are some ideas to get you started:
+I'm an Information and Communication Technologies (ICT) student
+with a strong interest in Cybersecurity, Computer Networks,
+and Information Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm passionate about exploring how networks work,
+understanding security challenges, and continuously
+improving my technical skills.
+
+## 🚀 About Me
+
+- 🎓 Currently studying Information and Communication Technologies (ICT).
+- 🔐 Interested in Cybersecurity & Network Security.
+- 🌐 Passionate about Computer Networking.
+- 💻 Exploring Linux, Networking, and Security Tools.
+- 📚 Always learning and improving my technical knowledge.
+- 🎯 Goal: Build a career in Cybersecurity and Network Engineering.
+
+## 🛠️ Areas of Interest
+
+- 🔐 Cybersecurity
+- 🌐 Computer Networks
+- 🛡️ Network Security
+- 🐧 Linux Systems
+- 🔎 Ethical Hacking
+- 💻 Information Technology
+
+## 📚 Currently Learning
+
+- 🌐 Networking Fundamentals (TCP/IP, DNS, DHCP)
+- 🔐 Cybersecurity Fundamentals
+- 🐧 Linux & System Administration
+- 🛠️ Network Troubleshooting
+- 🔎 Security Concepts & Best Practices
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [](https://www.linkedin.com/in/khalil-arfaoui-511194406/?isSelfProfile=true)
+- 📧 Email: khalil.arfaoui093@gmail.com
+
+---
+
+⭐ Always curious, always learning, always improving.
 -->
