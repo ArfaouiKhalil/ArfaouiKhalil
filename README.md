@@ -38,7 +38,7 @@ improving my technical skills.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [](https://www.linkedin.com/in/khalil-arfaoui-511194406/?isSelfProfile=true)
+- 💼 LinkedIn: [LinkedIN link](https://www.linkedin.com/in/khalil-arfaoui-511194406/?isSelfProfile=true)
 - 📧 Email: khalil.arfaoui093@gmail.com
 
 ---
